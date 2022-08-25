@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springcourse.springcourse.SpringcourseApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.755 s - in com.springcourse.springcourse.SpringcourseApplicationTests
