@@ -1,0 +1,109 @@
+	
+History of Oracle:
+******************
+
+ORACLE
+	Oracle is s/w developed by oracle corp. 
+	established in 1977 [Relational s/w incorporation.]
+	In 1979 it became as ORACLE CORPORATION.
+	The commercial version of oracle DB s/w was 
+	released in 1986.
+
+
+Oracle-7	
+	It is a stand alone RDBMS, it is not supporting online 
+	Data processing.
+Oracle-8
+	It is a stand alone RDBMS, and it is having indexes.
+
+Oracle-8i
+	It is supporting internet applications like webpages 
+	(HTML)
+	It supports online data processing.
+
+Oracle-9i
+	It is also supporting internet applications
+	It supports online data processing
+	It supports e-buz development tools 
+	(ERP--Enterprise Resource Planning-- 
+	[Oracle Apps] Modules )
+
+
+Oracle-10g ( Grid )
+	A grid is nothing but a mesh like architecture. 
+	Each crossection point in the mesh, is considered 
+	as server.
+	Each server is connected with at least one server 
+	with in the grid.
+
+advantage:
+	Then there is no communication gap between the 
+	DB servers
+	And we can process the business data in 
+	centralized manner.
+
+
+			business
+			  |
+		-----------------------------------------
+		|			|
+		branch-1		branch-2
+		server-abc		server-xyz
+
+
+
+		X1------X2------X3
+		|	|        |
+		|	|        |
+		X4------X5------X6
+		|	|        |
+		|	|        |
+		X7------X8------X9
+	
+	
+
+Oracle-11g (Grid)
+It is having in built data warehouse builder. 
+( OWB-tool [ Oracle Warehouse Builder ] )
+We can use Oracle 11g as OLTP RDBMS and also as OLAP RDBMS.
+
+
+
+Oracle-12c ( Cloud DataBase )
+	It is a multitenant database. 
+	It will reduce cost of business implementation.
+	Sharing of tech and data is easy.
+        More levels of security existed.
+        Changes are dynamic.
+
+Oracle-18c
+	It is known as Autonomous cloud database.
+
+Oracle-19c
+	It is known as Autonomous cloud database.( 19.3 )
+	
+
+
+Oracle Database Editions
+------------------------
+Oracle provides three main editions of Oracle Databases as follows:
+
+1) Enterprise Edition (EE) is the common and expensive edition of the Oracle Database.
+   It has the following characteristics:
+
+No maximum number of CPUs
+No limits on memory or database size
+Include premium features that are not available in other editions.
+
+
+2) Standard Edition (SE) is a limited edition of the Enterprise Edition that has the following characteristics:
+
+Limited to four or fewer CPUs
+No limit on memory or database size
+Include many features, but no as many as EE
+
+3) Expression Edition (XE) is a free-to-use version of the Oracle Database that available on both Windows and GNU/Linux platforms. These are the features of Oracle Database XE 18c:
+
+Limited to 2 CPUs
+Can use the maximum of 2GB of RAM, and has 12GB of user data.
+Very limited features
